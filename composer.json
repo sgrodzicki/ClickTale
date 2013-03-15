@@ -1,0 +1,13 @@
+{
+    "name":"sgrodzicki/clicktale",
+    "type":"library",
+    "description":"PHP integration module for ClickTale",
+    "keywords":["ClickTale"],
+    "homepage":"http://wiki.clicktale.com/Article/PHP_integration_module",
+    "require":{
+        "php":">=5.3.3"
+    },
+    "autoload":{
+        "classmap":["src/"]
+    }
+}
